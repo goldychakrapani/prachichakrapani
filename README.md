@@ -1,3 +1,3 @@
 # prachichakrapani
 my first work
-author-prachi
+author-Prachi
